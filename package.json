@@ -1,0 +1,21 @@
+{
+  "name": "oop-10th-challange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
